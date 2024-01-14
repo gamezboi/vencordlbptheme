@@ -1,0 +1,41 @@
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+:root {
+  --app-bg: url('https://i.imgur.com/k1jlLX3.jpg');
+  --app-blur: 3px;
+  --app-margin: 24px;
+  --app-radius: 4px;
+  --accent-hue: 259;
+  --accent-saturation: 100%;
+  --accent-lightness: 74%;
+  --accent-opacity: 1;
+  --sidebar-color: rgb(0,0,0,0.4);
+  --main-content-color: rgba(0,0,0,0.2);
+  --interactive-normal: #aaa;
+  --interactive-hover: #ddd;
+  --interactive-active: #fff;
+  --interactive-muted: #777;
+  --background-modifier-hover: rgba(255,255,255,0.075);
+  --background-modifier-selected: rgba(255,255,255,0.125);
+  --message-color: rgba(0,0,0,0.4);
+  --message-radius: 4px;
+  --message-padding-top: 8px;
+  --message-padding-side: 8px;
+  --reply-hue: 226;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.11;
+  --textarea-alpha-focus: 0.14;
+  --textarea-radius: 4px;
+  --card-color: rgb(0,0,0,0.4);
+  --card-color-hover: rgba(0,0,0,0.5);
+  --card-color-select: rgba(0,0,0,0.7);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 4px;
+  --font-primary: 'Tilt Neon';
+	--font-display: var(--font-primary) !important;
+}
